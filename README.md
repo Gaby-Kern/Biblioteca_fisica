@@ -1,5 +1,5 @@
 
-## Biblioteca pessoal — projeto de organização de dados
+## Biblioteca pessoal — Projeto de organização de dados
 
 Este projeto surgiu da vontade de organizar e visualizar dados sobre todos os livros físicos da minha biblioteca pessoal. A proposta foi usar ferramentas simples e gratuitas para transformar uma coleção de livros em um conjunto de dados bem estruturado, visualmente acessível e útil.
 
@@ -13,21 +13,18 @@ Este projeto surgiu da vontade de organizar e visualizar dados sobre todos os li
 2. Inclusão de livros não fisicamente presentes  
    Usei fotos dos livros e informações de terceiros para incluir livros que possuo, mas não estão atualmente comigo.
 
-3. [Tabela da Biblioteca](./Biblioteca_pessoal.csv)
-
-
 4. Visualização no Looker Studio  
    Com a planilha organizada, importei os dados para o Looker Studio.  
    Criei um painel com sete páginas, cada uma focada em um aspecto diferente da coleção.
 
 ### Planilha base
 
-A base de dados usada para a visualização pode ser acessada aqui:
-
-[Acesse a planilha da biblioteca](https://lookerstudio.google.com/reporting/97266270-4ea4-44ac-972e-60047ec64c29)
-
+[Planilha da Biblioteca](./Biblioteca_pessoal.csv)
 
 ## Dashboards
+
+### Dashboard interativo
+[Acesse o dashboard interativo](https://lookerstudio.google.com/reporting/97266270-4ea4-44ac-972e-60047ec64c29)
 
 Abaixo estão os painéis criados no Looker Studio. Cada seção pode ser expandida para visualizar os gráficos correspondentes.
 
