@@ -19,7 +19,7 @@ Este projeto surgiu da vontade de organizar e visualizar dados sobre todos os li
 
 ### Planilha base
 
-[Planilha da Biblioteca](./Biblioteca_pessoal.csv)
+[Planilha da biblioteca](./Biblioteca_pessoal.csv)
 
 ## Dashboards
 
@@ -80,4 +80,4 @@ Abaixo estão os painéis criados no Looker Studio. Cada seção pode ser expand
 ### Considerações finais
 
 Esse projeto une organização pessoal e análise de dados, usando ferramentas como Excel e Looker Studio para criar algo funcional, acessível e visual. É um exemplo de como qualquer conjunto de dados pode ganhar nova vida com as ferramentas certas.
-
+Até mais, e obrigado pelos peixes 🐬
