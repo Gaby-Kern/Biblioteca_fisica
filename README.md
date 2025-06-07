@@ -80,4 +80,5 @@ Abaixo estão os painéis criados no Looker Studio. Cada seção pode ser expand
 ### Considerações finais
 
 Esse projeto une organização pessoal e análise de dados, usando ferramentas como Excel e Looker Studio para criar algo funcional, acessível e visual. É um exemplo de como qualquer conjunto de dados pode ganhar nova vida com as ferramentas certas.
+
 Até mais, e obrigado pelos peixes 🐬
