@@ -23,9 +23,6 @@ Este projeto surgiu da vontade de organizar e visualizar dados sobre todos os li
 
 ## Dashboards
 
-### Dashboard interativo
-[Acesse o dashboard interativo](https://lookerstudio.google.com/reporting/97266270-4ea4-44ac-972e-60047ec64c29)
-
 Abaixo estão os painéis criados no Looker Studio. Cada seção pode ser expandida para visualizar os gráficos correspondentes.
 
 <details>
@@ -76,6 +73,9 @@ Abaixo estão os painéis criados no Looker Studio. Cada seção pode ser expand
   ![extras](./extras.png)
 
 </details>
+
+### Dashboard interativo
+[Acesse o dashboard interativo](https://lookerstudio.google.com/reporting/97266270-4ea4-44ac-972e-60047ec64c29)
 
 ### Considerações finais
 
