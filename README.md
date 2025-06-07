@@ -24,7 +24,7 @@ Este projeto surgiu da vontade de organizar e visualizar dados sobre todos os li
 
 A base de dados usada para a visualização pode ser acessada aqui:
 
-[acesse a planilha da biblioteca](https://lookerstudio.google.com/reporting/97266270-4ea4-44ac-972e-60047ec64c29)
+[Acesse a planilha da biblioteca](https://lookerstudio.google.com/reporting/97266270-4ea4-44ac-972e-60047ec64c29)
 
 
 ## Dashboards
