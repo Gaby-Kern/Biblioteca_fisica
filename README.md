@@ -31,7 +31,7 @@ Abaixo estão os painéis criados no Looker Studio. Cada seção pode ser expand
 <details>
   <summary>1. Dashboard geral</summary>
 
-  ![dashboard geral](./assets/dashboard.png)
+  ![dashboard geral](./dashboard.png)
 
 </details>
 
