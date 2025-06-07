@@ -13,7 +13,10 @@ Este projeto surgiu da vontade de organizar e visualizar dados sobre todos os li
 2. Inclusão de livros não fisicamente presentes  
    Usei fotos dos livros e informações de terceiros para incluir livros que possuo, mas não estão atualmente comigo.
 
-3. Visualização no Looker Studio  
+3. [Tabela da Biblioteca](./Biblioteca_pessoal.csv)
+
+
+4. Visualização no Looker Studio  
    Com a planilha organizada, importei os dados para o Looker Studio.  
    Criei um painel com sete páginas, cada uma focada em um aspecto diferente da coleção.
 
