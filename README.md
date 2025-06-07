@@ -38,42 +38,42 @@ Abaixo estão os painéis criados no Looker Studio. Cada seção pode ser expand
 <details>
   <summary>2. Títulos</summary>
 
-  ![títulos](./assets/titulos.png)
+  ![títulos](./titulos.png)
 
 </details>
 
 <details>
   <summary>3. Autores</summary>
 
-  ![autores](./assets/autores.png)
+  ![autores](./autores.png)
 
 </details>
 
 <details>
   <summary>4. Nacionalidades</summary>
 
-  ![nacionalidades](./assets/nacionalidades.png)
+  ![nacionalidades](./nacionalidades.png)
 
 </details>
 
 <details>
   <summary>5. Editoras</summary>
 
-  ![editoras](./assets/editoras.png)
+  ![editoras](./editoras.png)
 
 </details>
 
 <details>
   <summary>6. Categorias e gêneros</summary>
 
-  ![categorias e gêneros](./assets/categorias_generos.png)
+  ![categorias e gêneros](./categorias_generos.png)
 
 </details>
 
 <details>
   <summary>7. Extras</summary>
 
-  ![extras](./assets/extras.png)
+  ![extras](./extras.png)
 
 </details>
 
